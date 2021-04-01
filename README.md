@@ -42,3 +42,7 @@ MockDevice(.iPhone11) {
     .homeIndicator
 ])
 ```
+
+This is what it would look like if we added the example view for each of the supported phone models:
+
+<img width="2426" alt="screenshot_3281" src="https://user-images.githubusercontent.com/384210/113225609-555b7300-928e-11eb-888b-36a571d505e0.png">
